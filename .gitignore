@@ -53,7 +53,6 @@ build_info.json
 .els_cache/
 # VSCode files
 .vs/
-.vscode/
 # Emacs Backup files
 *~
 # Emacs temporary files
@@ -85,3 +84,7 @@ apps/emqx_utils/src/emqx_variform_scan.erl
 default-profile.mk
 
 /_build.*
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
